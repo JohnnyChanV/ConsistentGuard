@@ -1,10 +1,10 @@
-# Unlocking LLM Safeguards for Low-Resource Languages \\ via Reasoning and Alignment with Minimal Training Data
+# Unlocking LLM Safeguards for Low-Resource Languages via Reasoning and Alignment with Minimal Training Data
 
 **Zhuowei Chen, Bowei Zhang, Nankai Lin, Tian Hou, and Lianxi Wang\***
 
 *Guangdong Univerisity of Foreign Studies & Guangzhou Key Laboratory of Multilingual Intelligent Processing & University of Pittsburgh*
 
-Official repository for the paper **[Unlocking LLM Safeguards for Low-Resource Languages \\ via Reasoning and Alignment with Minimal Training Data](https://openreview.net/forum?id=oLlprVll4j)**.
+Official repository for the paper **[Unlocking LLM Safeguards for Low-Resource Languages via Reasoning and Alignment with Minimal Training Data](https://openreview.net/forum?id=oLlprVll4j)**.
 
 
 ![Overview](Overview.png)
