@@ -22,5 +22,13 @@ With only **1,000 training samples**, our method demonstrates superior performan
 ## Citation
 
 ```
-Incoming
+@misc{chen2025unlockingllmsafeguardslowresource,
+      title={Unlocking LLM Safeguards for Low-Resource Languages via Reasoning and Alignment with Minimal Training Data}, 
+      author={Zhuowei Chen and Bowei Zhang and Nankai Lin and Tian Hou and Lianxi Wang},
+      year={2025},
+      eprint={2510.10677},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.10677}, 
+}
 ```
